@@ -1,0 +1,17 @@
+package pratica.encapsulamento;
+
+public class CrontoleRemoto {
+		//atributos
+	private int volume;
+	private boolean ligado;
+	private boolean tocando;
+	
+		//Métodos Especiais
+	public ControleRemoto() {
+		this.volume = 50;
+		this.ligado = false;
+		this.tocando = false;
+		
+	}
+	
+}

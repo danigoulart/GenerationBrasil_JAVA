@@ -1,0 +1,10 @@
+package pratica.encapsulamento;
+
+public class Teste_ControleRemoto {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

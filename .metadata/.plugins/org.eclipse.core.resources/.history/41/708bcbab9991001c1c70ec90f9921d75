@@ -1,0 +1,17 @@
+package br.com.generation.animais;
+
+public class Cavalo extends Animais implements AcaoAnimal {
+
+	@Override
+	public void Correr() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void comer() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

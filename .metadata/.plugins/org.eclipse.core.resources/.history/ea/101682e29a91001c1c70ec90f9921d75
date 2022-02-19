@@ -1,0 +1,12 @@
+package br.com.generation.ex05;
+
+public interface Animais {
+//classe mãe
+	public void somAnimal();
+	public void idade();
+	public void dormir();
+	public void nome();
+	
+	
+	
+}

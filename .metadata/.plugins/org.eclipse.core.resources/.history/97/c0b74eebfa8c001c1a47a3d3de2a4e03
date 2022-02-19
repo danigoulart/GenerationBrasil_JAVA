@@ -1,0 +1,12 @@
+package relacionamento.entre.classes;
+
+public class UltraEmojiCombat {
+
+	public static void main(String[] args) {
+		// Declarando objetos por parametro
+		Lutador l = new Lutador("Pretty Boy", "França", 31, 1.75f,  68.9f, "Leve", 11, 2, 1);
+		l.apresentar();
+
+	}
+
+}

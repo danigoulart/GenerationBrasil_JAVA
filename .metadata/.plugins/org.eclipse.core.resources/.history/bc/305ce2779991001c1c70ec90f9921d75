@@ -1,0 +1,5 @@
+package br.com.generation.animais;
+
+public class Preguica extends Animais implements AcaoAnimal {
+
+}

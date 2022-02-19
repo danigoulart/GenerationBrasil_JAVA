@@ -1,0 +1,5 @@
+package pratica.encapsulamento;
+
+public interface Controlador {
+
+}

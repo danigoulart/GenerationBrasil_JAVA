@@ -1,0 +1,21 @@
+package br.com.generation.loja;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ControleEstoque {
+
+	public static void main(String[] args) {
+		
+		ArrayList <Estoque> estoque = new ArrayList<>();
+		
+		Scanner sc = new Scanner(System.in);
+		Scanner sc2 = new Scanner(System.in);
+		
+		
+		
+		
+
+	}
+
+}

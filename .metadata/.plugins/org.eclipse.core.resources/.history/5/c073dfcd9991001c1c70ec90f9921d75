@@ -1,0 +1,17 @@
+package br.com.generation.animais;
+
+public class Preguica extends Animais implements AcaoAnimal {
+
+	@Override
+	public void Correr() {
+		sysout
+		
+	}
+
+	@Override
+	public void comer() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

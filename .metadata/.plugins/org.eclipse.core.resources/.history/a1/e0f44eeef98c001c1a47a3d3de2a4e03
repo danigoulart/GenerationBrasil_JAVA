@@ -1,0 +1,10 @@
+package relacionamento.entre.classes;
+
+public class TestarUEU {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

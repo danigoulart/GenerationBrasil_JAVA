@@ -1,0 +1,35 @@
+package br.com.generation.loja;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ControleEstoque {
+
+	public static void main(String[] args) {
+		
+		ArrayList <Estoque> estoque = new ArrayList<>();
+		
+		Scanner sc = new Scanner(System.in);
+		Scanner sc2 = new Scanner(System.in);
+		
+		
+		
+		System.out.println("Quantos produtos gostaria de inserir?");
+		int qnt = sc2.nextInt();
+		
+		for(int i =0; i <qnt; i++) {
+			System.out.println("Qual produto você deseja incluir? ");
+			String produto = sc.next();
+			System.out.println("Quantos você deseja adicionar ao estoque?");
+			 int quantidade = sc2.nextInt();
+			 
+			estoque.add(new Estoque(produto, quantidade));
+		}
+		
+		
+		
+		
+
+	}
+
+}

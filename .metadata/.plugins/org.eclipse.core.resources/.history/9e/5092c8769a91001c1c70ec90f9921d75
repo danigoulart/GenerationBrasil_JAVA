@@ -1,0 +1,19 @@
+package br.com.generation.animais;
+
+public class TestaAnimais {
+
+	public static void main(String[] args) {
+		
+		Cachorro dog1 = new Cachorro();
+		
+		
+		
+		Cavalo cav1 = new Cavalo();
+		
+		
+		
+		
+		Preguica preg1 = new Preguica();
+	}
+
+}
